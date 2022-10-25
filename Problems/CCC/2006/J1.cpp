@@ -1,3 +1,5 @@
+// PROBLEM LINK: https://dmoj.ca/problem/ccc06j1
+
 #include <iostream>
 using namespace std;
 
